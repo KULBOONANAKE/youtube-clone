@@ -1,4 +1,4 @@
-# youtube-clonet
+# youtube-clone
 
 ## Home Page
 <img width="1000" alt="Screen Shot 2023-01-16 at 10 51 04 PM" src="https://user-images.githubusercontent.com/80439566/212719150-fb10c667-f493-4818-a37d-02bb364caa38.png">
